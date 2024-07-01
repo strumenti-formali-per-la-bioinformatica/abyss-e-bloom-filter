@@ -27,6 +27,7 @@ make all
 
 >[!WARNING]
 >Se ci sono problemi durante la compilazione, modificare con il proprio compilatore il parametro CXX del makefile.
+
 >[!TIP]
 La compilazione manuale può essere fatta ricordando che al sorgente di ogni eseguibile va affiancato il sorgente di Murmurhash3 e ricordando che la compilazione usando le librerie installate necessita di specificare i seguenti flag:
 
